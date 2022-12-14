@@ -1,0 +1,15 @@
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.csproj.AssemblyReference.cache
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.AssemblyInfoInputs.cache
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.AssemblyInfo.cs
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.csproj.CoreCompileInputs.cache
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/bin/Debug/net6.0/Exaples003_Sum
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/bin/Debug/net6.0/Exaples003_Sum.deps.json
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/bin/Debug/net6.0/Exaples003_Sum.runtimeconfig.json
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/bin/Debug/net6.0/Exaples003_Sum.dll
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/bin/Debug/net6.0/Exaples003_Sum.pdb
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.dll
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/refint/Exaples003_Sum.dll
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.pdb
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/Exaples003_Sum.genruntimeconfig.cache
+/Users/evgenijpopov/Desktop/Examples/Exaples003_Sum/obj/Debug/net6.0/ref/Exaples003_Sum.dll
